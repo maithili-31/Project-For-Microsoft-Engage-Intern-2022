@@ -1,13 +1,13 @@
-# Le Visage
+# kas
 
-Le Visage is a product for identifying a client's skin type, gender and flaws, so we can recommend the best treatments. We take a current image, to understand what the
+KAS(Keen About Skin) is a product for identifying a client's skin type, gender and flaws, so we can recommend the best treatments. We take a current image, to understand what the
 current skin looks like and make predictions with our 3 deeplearning models mentioned below in the table.
 
  Number  | Name | Predictions | Link 
 --- | --- | --- |--- 
-1 | Gender Type | Male or Female | [Gender type recogntion]()
-2 | Skin Type | Dry or Oily | [Skin type recognition]()
-3 | Skin disease type | Acne or Normal | [Skin disease type recognition]()
+1 | Gender Type | Male or Female | [Gender type recogntion](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/Gender_Recognition.ipynb)
+2 | Skin Type | Dry or Oily | [Skin type recognition](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/Skin_Type_Recognition.ipynb)
+3 | Skin disease type | Acne or Normal | [Skin disease type recognition](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/Skin_Disease.ipynb)
 
 ## Topics Included
 
@@ -19,14 +19,7 @@ current skin looks like and make predictions with our 3 deeplearning models ment
 
 ### 1. Introduction
 
-Your skin takes a lot of wear and tear over the years. Maybe you have sun damage, redness, or uneven skin texture. Or maybe you’re having acne and have a dry or oily skin not knowing what to do with it to improve. This product makes it easy for you to take further steps. It helps analyse your skin type, skin disease and then predict your gender. With all these predictions available it then recommends the best products available according to the following conditions.
-
- Number  | Condition | Product 1 | Product 2 | Product 3 | Product 4   
---- | --- | --- |--- | --- | --- 
-1 | Male Dry | [Product name]() | [Product name]() | [Product name]() | [Product name]() 
-2 | Male OIly | [Product name]() | [Product name]() | [Product name]() | [Product name]() 
-3 | Female Dry | [Product name]() | [Product name]() | [Product name]() | [Product name]() 
-4 | Female Oily | [Product name]() | [Product name]() | [Product name]() | [Product name]()
+Your skin takes a lot of wear and tear over the years. Maybe you have sun damage, redness, or uneven skin texture. Or maybe you’re having acne and have a dry or oily skin not knowing what to do with it to improve. This product makes it easy for you to take further steps. It helps analyse your skin type, skin disease and then predict your gender. With all these predictions available it then recommends the best products available according to the conditions.
 
 ### 2. Installation Guide
 *The system requires tensorflow to load deeplearning models, tensorflow-gpu errors while running parallely with flask make sure you don't have cudaNN setup or this error will be raised*
