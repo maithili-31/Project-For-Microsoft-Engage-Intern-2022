@@ -1,4 +1,4 @@
-# kas
+# KAS
 
 KAS(Keen About Skin) is a product for identifying a client's skin type, gender and flaws, so we can recommend the best treatments. We take a current image, to understand what the
 current skin looks like and make predictions with our 3 deeplearning models mentioned below in the table.
