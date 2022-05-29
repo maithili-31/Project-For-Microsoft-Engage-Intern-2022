@@ -46,4 +46,5 @@ Below are some of the predictions from the deeplearning model trained.
 ![IMG](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/assets/skin_type_preds.png?raw=true)
 
 ### 5. Conclusion
-
+The problem of skin disease is addressed and solved using a skin analysis tool(KAS).
+It also enhances Skin Health.
