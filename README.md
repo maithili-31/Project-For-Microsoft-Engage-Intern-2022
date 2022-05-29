@@ -48,9 +48,9 @@ This will take a second to make predictions. Once the predictions are made you w
 
 Below are some of the predictions from the deeplearning model trained.
 
-![IMG](https://github.com/Hrushi11/Installation/blob/main/assets/gender_preds.png?raw=true)
+![IMG](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/assets/gender_preds.png?raw=true)
 
-![IMG](https://github.com/Hrushi11/Installation/blob/main/assets/skin_type_preds.png?raw=true)
+![IMG](https://github.com/maithili-31/Project-For-Microsoft-Engage-Intern-2022/blob/main/assets/skin_type_preds.png?raw=true)
 
 ### 5. Conclusion
 
