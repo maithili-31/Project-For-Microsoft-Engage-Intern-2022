@@ -48,3 +48,17 @@ Below are some of the predictions from the deeplearning model trained.
 ### 5. Conclusion
 The problem of skin disease is addressed and solved using a skin analysis tool(KAS).
 It also enhances Skin Health.
+Important Functional Features :
+1. Gender Detection.
+2. Skin Type Detection.
+3. Skin Diseaese Detection.
+   ie. Normal or Acne.
+4.Recommends Skin care products according to Skin Type and Gender.
+ie.a. Male Oily skin.
+   b. Male Dry skin.
+   c. Female Oily skin.
+   d. Female Dry skin.
+5.Customized suggestions of food suppliments according to Skin type and Skin disease.
+6.Helps choosing products suitable for the skin type and provides direct links to buy them.
+7.Suggests DO'S and DON'TS to avoid skin disease and provides Home Remedies for Healthy Skin.
+
