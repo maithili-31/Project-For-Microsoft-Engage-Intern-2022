@@ -53,12 +53,17 @@ Important Functional Features :
 2. Skin Type Detection.
 3. Skin Diseaese Detection.
    ie. Normal or Acne.
+
 4.Recommends Skin care products according to Skin Type and Gender.
+
 ie.a. Male Oily skin.
    b. Male Dry skin.
    c. Female Oily skin.
    d. Female Dry skin.
+   
 5.Customized suggestions of food suppliments according to Skin type and Skin disease.
+
 6.Helps choosing products suitable for the skin type and provides direct links to buy them.
+
 7.Suggests DO'S and DON'TS to avoid skin disease and provides Home Remedies for Healthy Skin.
 
